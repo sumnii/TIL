@@ -1,6 +1,7 @@
 # TIL
 
 ## 2023년 7월
+- [0704](./documents/230704.md)
 - [0703](./documents/230703.md)
 - [0702](./documents/230702.md)
 - [0701](./documents/230701.md)
