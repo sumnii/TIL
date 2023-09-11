@@ -2,6 +2,7 @@
 
 ## 2023년 8월
 
+- [0831](./documents/2023/august/230831.md)
 - [0830](./documents/2023/august/230830.md)
 - [0811](./documents/2023/august/230811.md)
 - [0809](./documents/2023/august/230809.md)
