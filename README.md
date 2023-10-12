@@ -1,5 +1,9 @@
 # TIL
 
+## 2023년 10월
+
+- [1012](./documents/2023/october/231012.md)
+
 ## 2023년 9월
 
 - [0921](./documents/2023/september/230921.md)
